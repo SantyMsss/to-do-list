@@ -1,7 +1,7 @@
 /// Constantes de configuración para la API REST
 class ApiConstants {
   // Cambiar esta URL a tu dirección IP local o servidor
-  static const String baseUrl = 'https://postmundane-errol-askew.ngrok-free.dev';
+  static const String baseUrl = 'https://todo-service-production-c5ef.up.railway.app';
   
   static const String tasksEndpoint = '/tasks';
   
